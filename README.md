@@ -2,6 +2,8 @@
 
 ![Sakurajima Mai 夜景背景](assets/Sakurajima-Mai-Night.jpg)
 
+麻衣学姐美如画～ 🥰🥰🥰
+
 ## iTerm2
 
 iTerm2 3.7.7 的配置快照。默认使用 **Comfortable Dark**，按 **⌥ Space** 呼出 **Hotkey Window**。仓库也收录了背景图、Workgroup 和保存的代码审查提示词。 [动态 Profile](DynamicProfiles/)
