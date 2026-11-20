@@ -1,0 +1,25 @@
+{
+  "Profiles": [
+    {
+      "Name": "Hotkey Window",
+      "Guid": "99E680B1-3AAA-4728-B095-57F31E6A2C60",
+      "Dynamic Profile Parent Name": "Comfortable Dark",
+      "Has Hotkey": true,
+      "HotKey Key Code": 49,
+      "HotKey Modifier Flags": 524288,
+      "HotKey Characters": " ",
+      "HotKey Characters Ignoring Modifiers": " ",
+      "HotKey Activated By Modifier": false,
+      "HotKey Alternate Shortcuts": [],
+      "HotKey Window AutoHides": true,
+      "HotKey Window Animates": false,
+      "HotKey Window Floats": true,
+      "HotKey Window Reopens On Activation": false,
+      "HotKey Window Dock Click Action": 0,
+      "Window Type": 5,
+      "Space": -1,
+      "Screen": -1,
+      "Hide After Opening": false
+    }
+  ]
+}
